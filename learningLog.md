@@ -9,7 +9,7 @@
 |:white_large_square:|6|  |  |
 |:white_large_square:|7|  |  |
 |:white_large_square:|8|  |  |
-|:white_check_mark:|9|逆説プランニング|  |
+|:white_check_mark:|9|[逆説プランニング](独学大全/9_逆説プランニング.md)|  |
 |:white_large_square:|10|  |  |
 |:white_large_square:|11|  |  |
 |:white_large_square:|12|  |  |
