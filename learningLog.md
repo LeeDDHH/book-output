@@ -1,58 +1,58 @@
 # 独学大全
-|check|項|名|備考|
-|--|--|--|--|
-|:white_large_square:|1|  |  |
-|:white_large_square:|2|  |  |
-|:white_large_square:|3|  |  |
-|:white_large_square:|4|  |  |
-|:white_large_square:|5|  |  |
-|:white_large_square:|6|  |  |
-|:white_large_square:|7|  |  |
-|:white_large_square:|8|  |  |
-|:white_check_mark:|9|[逆説プランニング](独学大全/9_逆説プランニング.md)|  |
-|:white_large_square:|10|  |  |
-|:white_large_square:|11|  |  |
-|:white_large_square:|12|  |  |
-|:white_large_square:|13|  |  |
-|:white_large_square:|14|  |  |
-|:white_large_square:|15|  |  |
-|:white_large_square:|16|  |  |
-|:white_large_square:|17|  |  |
-|:white_large_square:|18|  |  |
-|:white_large_square:|19|  |  |
-|:white_large_square:|20|  |  |
-|:white_large_square:|21|  |  |
-|:white_large_square:|22|  |  |
-|:white_large_square:|23|  |  |
-|:white_large_square:|24|  |  |
-|:white_large_square:|25|  |  |
-|:white_large_square:|26|  |  |
-|:white_large_square:|27|  |  |
-|:white_large_square:|28|  |  |
-|:white_large_square:|29|  |  |
-|:white_large_square:|30|  |  |
-|:white_large_square:|31|  |  |
-|:white_large_square:|32|  |  |
-|:white_large_square:|33|  |  |
-|:white_large_square:|34|  |  |
-|:white_large_square:|35|  |  |
-|:white_large_square:|36|  |  |
-|:white_large_square:|37|  |  |
-|:white_large_square:|38|  |  |
-|:white_large_square:|39|  |  |
-|:white_large_square:|40|  |  |
-|:white_large_square:|41|  |  |
-|:white_large_square:|42|  |  |
-|:white_large_square:|43|  |  |
-|:white_large_square:|44|  |  |
-|:white_large_square:|45|  |  |
-|:white_large_square:|46|  |  |
-|:white_large_square:|47|  |  |
-|:white_large_square:|48|  |  |
-|:white_large_square:|49|  |  |
-|:white_large_square:|50|  |  |
-|:white_large_square:|51|  |  |
-|:white_large_square:|52|  |  |
-|:white_large_square:|53|  |  |
-|:white_large_square:|54|  |  |
-|:white_large_square:|55|  |  |
+|check|項|名|
+|--|--|--|
+|:white_large_square:|1|  |
+|:white_large_square:|2|  |
+|:white_large_square:|3|  |
+|:white_large_square:|4|  |
+|:white_large_square:|5|  |
+|:white_large_square:|6|  |
+|:white_large_square:|7|  |
+|:white_large_square:|8|  |
+|:white_check_mark:|9|[逆説プランニング](独学大全/9_逆説プランニング.md)|
+|:white_large_square:|10|  |
+|:white_large_square:|11|  |
+|:white_large_square:|12|  |
+|:white_large_square:|13|  |
+|:white_large_square:|14|  |
+|:white_large_square:|15|  |
+|:white_large_square:|16|  |
+|:white_large_square:|17|  |
+|:white_large_square:|18|  |
+|:white_large_square:|19|  |
+|:white_large_square:|20|  |
+|:white_large_square:|21|  |
+|:white_large_square:|22|  |
+|:white_large_square:|23|  |
+|:white_large_square:|24|  |
+|:white_large_square:|25|  |
+|:white_large_square:|26|  |
+|:white_large_square:|27|  |
+|:white_large_square:|28|  |
+|:white_large_square:|29|  |
+|:white_large_square:|30|  |
+|:white_large_square:|31|  |
+|:white_large_square:|32|  |
+|:white_large_square:|33|  |
+|:white_large_square:|34|  |
+|:white_large_square:|35|  |
+|:white_large_square:|36|  |
+|:white_large_square:|37|  |
+|:white_large_square:|38|  |
+|:white_large_square:|39|  |
+|:white_large_square:|40|  |
+|:white_large_square:|41|  |
+|:white_large_square:|42|  |
+|:white_large_square:|43|  |
+|:white_large_square:|44|  |
+|:white_large_square:|45|  |
+|:white_large_square:|46|  |
+|:white_large_square:|47|  |
+|:white_large_square:|48|  |
+|:white_large_square:|49|  |
+|:white_large_square:|50|  |
+|:white_large_square:|51|  |
+|:white_large_square:|52|  |
+|:white_large_square:|53|  |
+|:white_large_square:|54|  |
+|:white_large_square:|55|  |
