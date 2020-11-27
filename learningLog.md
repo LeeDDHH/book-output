@@ -1,58 +1,58 @@
 # 独学大全
 |check|項|名|
 |--|--|--|
-|:white_large_square:|1|  |
-|:white_large_square:|2|  |
-|:white_large_square:|3|  |
-|:white_large_square:|4|  |
-|:white_large_square:|5|  |
-|:white_large_square:|6|  |
-|:white_large_square:|7|  |
-|:white_large_square:|8|  |
+|:white_large_square:|1|学びの動機付けマップ|
+|:white_large_square:|2|可能の階梯|
+|:white_large_square:|3|学習ルートマップ|
+|:white_large_square:|4|1／100プランニング|
+|:white_large_square:|5|2ミニッツ・スターター|
+|:white_large_square:|6|行動記録表|
+|:white_large_square:|7|グレー時間クレンジング|
+|:white_large_square:|8|ポモドーロ・テクニック|
 |:white_check_mark:|9|[逆説プランニング](独学大全/9_逆説プランニング.md)|
-|:white_large_square:|10|  |
-|:white_large_square:|11|  |
-|:white_large_square:|12|  |
-|:white_large_square:|13|  |
-|:white_large_square:|14|  |
-|:white_large_square:|15|  |
-|:white_large_square:|16|  |
-|:white_large_square:|17|  |
-|:white_large_square:|18|  |
-|:white_large_square:|19|  |
-|:white_large_square:|20|  |
-|:white_large_square:|21|  |
-|:white_large_square:|22|  |
-|:white_large_square:|23|  |
-|:white_large_square:|24|  |
-|:white_large_square:|25|  |
-|:white_large_square:|26|  |
-|:white_large_square:|27|  |
-|:white_large_square:|28|  |
-|:white_large_square:|29|  |
-|:white_large_square:|30|  |
-|:white_large_square:|31|  |
-|:white_large_square:|32|  |
-|:white_large_square:|33|  |
-|:white_large_square:|34|  |
-|:white_large_square:|35|  |
-|:white_large_square:|36|  |
-|:white_large_square:|37|  |
-|:white_large_square:|38|  |
-|:white_large_square:|39|  |
-|:white_large_square:|40|  |
-|:white_large_square:|41|  |
-|:white_large_square:|42|  |
-|:white_large_square:|43|  |
-|:white_large_square:|44|  |
-|:white_large_square:|45|  |
-|:white_large_square:|46|  |
-|:white_large_square:|47|  |
-|:white_large_square:|48|  |
-|:white_large_square:|49|  |
-|:white_large_square:|50|  |
-|:white_large_square:|51|  |
-|:white_large_square:|52|  |
-|:white_large_square:|53|  |
-|:white_large_square:|54|  |
-|:white_large_square:|55|  |
+|:white_large_square:|10|習慣レバレッジ|
+|:white_large_square:|11|行動デザインシート|
+|:white_large_square:|12|ラーニングログ|
+|:white_large_square:|13|ゲートキーパー|
+|:white_large_square:|14|私淑|
+|:white_large_square:|15|会読|
+|:white_large_square:|16|カルテ・クセジュ|
+|:white_large_square:|17|ラミのトポス|
+|:white_large_square:|18|NDCトラバース|
+|:white_large_square:|19|検索語みがき|
+|:white_large_square:|20|シネクドキ探索|
+|:white_large_square:|21|文献たぐりよせ|
+|:white_large_square:|22|リサーチログ|
+|:white_large_square:|23|事典|
+|:white_large_square:|24|書誌|
+|:white_large_square:|25|教科書|
+|:white_large_square:|26|書籍探索|
+|:white_large_square:|27|雑誌記事（論文）調査|
+|:white_large_square:|28|目次マトリクス|
+|:white_large_square:|29|引用マトリクス|
+|:white_large_square:|30|要素マトリクス|
+|:white_large_square:|31|タイム・スケール・マトリクス|
+|:white_large_square:|32|4分割表|
+|:white_large_square:|33|トゥールミン・モデル|
+|:white_large_square:|34|転読Flipping|
+|:white_large_square:|35|掬読Skimming|
+|:white_large_square:|36|問読Q&A Reading|
+|:white_large_square:|37|限読Timed Reading|
+|:white_large_square:|38|黙読Silent Reading|
+|:white_large_square:|39|音読Reading Aloud|
+|:white_large_square:|40|指読Pointing Reading|
+|:white_large_square:|41|刻読Marked Reading|
+|:white_large_square:|42|段落要約Paragraph Summarizing|
+|:white_large_square:|43|筆写Scribing|
+|:white_large_square:|44|注釈Annotating|
+|:white_large_square:|45|鈴木式6分割ノート|
+|:white_large_square:|46|レーニンノート|
+|:white_large_square:|47|記憶法マッチング|
+|:white_large_square:|48|PQRST法|
+|:white_large_square:|49|プレマップ＆ポストマップ|
+|:white_large_square:|50|記憶術（ニーモニクス）|
+|:white_large_square:|51|35ミニッツ・モジュール|
+|:white_large_square:|52|シンクアラウドThink Aloud|
+|:white_large_square:|53|わからないルートマップ|
+|:white_large_square:|54|違う解き方|
+|:white_large_square:|55|メタノート|
