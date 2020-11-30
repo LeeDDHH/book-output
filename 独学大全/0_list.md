@@ -11,7 +11,7 @@
 |:white_large_square:|6|行動記録表|
 |:white_large_square:|7|グレー時間クレンジング|
 |:white_large_square:|8|ポモドーロ・テクニック|
-|:white_check_mark:|9|[逆説プランニング](独学大全/9_逆説プランニング.md)|
+|:white_check_mark:|9|[逆説プランニング](9_逆説プランニング.md)|
 |:white_large_square:|10|習慣レバレッジ|
 |:white_large_square:|11|行動デザインシート|
 |:white_large_square:|12|ラーニングログ|
