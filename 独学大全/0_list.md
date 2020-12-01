@@ -16,7 +16,7 @@
 |:white_large_square:|11|行動デザインシート||
 |:white_check_mark:|12|[ラーニングログ](12_ラーニングログ.md)|201201読了（160~167）|
 |:white_large_square:|13|ゲートキーパー||
-|:white_large_square:|14|私淑||
+|:white_check_mark:|14|[私淑](14_私淑.md)|201202読了（178~185）|
 |:white_large_square:|15|会読||
 |:white_large_square:|16|カルテ・クセジュ||
 |:white_large_square:|17|ラミのトポス||
