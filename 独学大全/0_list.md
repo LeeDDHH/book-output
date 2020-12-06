@@ -57,4 +57,4 @@
 |:white_large_square:|52|シンクアラウドThink Aloud||
 |:white_large_square:|53|わからないルートマップ||
 |:white_large_square:|54|違う解き方||
-|:white_large_square:|55|メタノート||
+|:white_large_square:|55|[メタノート](55_メタノート.md)|201206読了（658~664）|
