@@ -37,7 +37,7 @@
 |:white_large_square:|32|4分割表||
 |:white_large_square:|33|トゥールミン・モデル||
 |:white_large_square:|34|転読Flipping||
-|:white_large_square:|35|掬読Skimming||
+|:white_large_square:|35|[掬読Skimming](35_掬読.md)||
 |:white_large_square:|36|問読Q&A Reading||
 |:white_large_square:|37|限読Timed Reading||
 |:white_large_square:|38|黙読Silent Reading||
