@@ -37,7 +37,7 @@
 |:white_large_square:|32|4分割表||
 |:white_large_square:|33|トゥールミン・モデル||
 |:white_large_square:|34|転読Flipping||
-|:white_check_mark:|35|[掬読Skimming](35_掬読.md)||
+|:white_check_mark:|35|[掬読Skimming](35_掬読.md)|201209読了（470~479）|
 |:white_large_square:|36|問読Q&A Reading||
 |:white_large_square:|37|限読Timed Reading||
 |:white_large_square:|38|黙読Silent Reading||
@@ -57,4 +57,4 @@
 |:white_large_square:|52|シンクアラウドThink Aloud||
 |:white_large_square:|53|わからないルートマップ||
 |:white_large_square:|54|違う解き方||
-|:white_large_square:|55|[メタノート](55_メタノート.md)|201206読了（658~664）|
+|:white_check_mark:|55|[メタノート](55_メタノート.md)|201206読了（658~664）|
