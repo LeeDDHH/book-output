@@ -6,3 +6,4 @@
 ## Learning Log
 
 [独学大全](独学大全/0_list.md#%E7%8B%AC%E5%AD%A6%E5%A4%A7%E5%85%A8)
+[文章の問題地図](文章の問題地図/list.md)
