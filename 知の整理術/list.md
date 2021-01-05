@@ -9,10 +9,10 @@
 |:white_check_mark:|3|[「ゲーム感覚」でやる](3_「ゲーム感覚」でやる.md)|210102読了（16~21）|
 |:white_check_mark:|4|[「たのしいことだけ」やる](4_「たのしいことだけ」やる.md)|210102読了（22~29）|
 |||序章　知の整理術４大メソッド||
-|:white_large_square:||デジタルよりアナログ||
-|:white_large_square:||書くと進む||
-|:white_large_square:||情報よりメタ情報||
-|:white_large_square:||制限は力||
+|:white_check_mark:|5|[デジタルよりアナログ](5_デジタルよりアナログ.md)||
+|:white_check_mark:|6|[書くと進む](6_書くと進む.md)||
+|:white_check_mark:|7|[情報よりメタ情報](7_情報よりメタ情報.md)||
+|:white_check_mark:|8|[制限は力](8_制限は力.md)||
 |||第１章　情報を整理する　インプットの技術||
 |:white_large_square:||記憶までのショートカット法||
 |:white_large_square:||記憶を強めるテクニック集||
