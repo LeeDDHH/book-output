@@ -29,94 +29,94 @@
 |:white_check_mark:|21|[Webサイトで使う画像の形式](21_Webサイトで使う画像の形式.md)||
 |:white_check_mark:|22|[ビットマップ画像とベクター画像](22_ビットマップ画像とベクター画像.md)||
 |:white_check_mark:|23|[動画素材や音声素材の使い方](23_動画素材や音声素材の使い方.md)||
-|:white_check_mark:|24|[2つのカラーモード「RGB」と「CMYK」](24_2つのカラーモード「RGB」と「CMYK」.md)||
-|:white_check_mark:|25|[色の三属性を理解する](25_色の三属性を理解する.md)||
-|:white_check_mark:|26|[配色のポイントとWebアクセシビリティ](26_配色のポイントとWebアクセシビリティ.md)||
-|:white_check_mark:|27|[Webサイトで色を表現するには？](27_Webサイトで色を表現するには？.md)||
-|:white_check_mark:|28|[Webサイトの素材と著作権](28_Webサイトの素材と著作権.md)||
-|:white_check_mark:|29|[チャレンジしてみよう！ Web用の画像を書き出してみよう](29_チャレンジしてみよう！_Web用の画像を書き出してみよう.md)||
+|:white_large_square:|24|[2つのカラーモード「RGB」と「CMYK」](24_2つのカラーモード「RGB」と「CMYK」.md)||
+|:white_large_square:|25|[色の三属性を理解する](25_色の三属性を理解する.md)||
+|:white_large_square:|26|[配色のポイントとWebアクセシビリティ](26_配色のポイントとWebアクセシビリティ.md)||
+|:white_large_square:|27|[Webサイトで色を表現するには？](27_Webサイトで色を表現するには？.md)||
+|:white_large_square:|28|[Webサイトの素材と著作権](28_Webサイトの素材と著作権.md)||
+|:white_large_square:|29|[チャレンジしてみよう！ Web用の画像を書き出してみよう](29_チャレンジしてみよう！_Web用の画像を書き出してみよう.md)||
 |||Lesson4　HTMLをマスターする||
-|:white_check_mark:|30|[HTMLについて知ろう](30_HTMLについて知ろう.md)||
-|:white_check_mark:|31|[テキスト情報に意味を与えるマークアップ](31_テキスト情報に意味を与えるマークアップ.md)||
-|:white_check_mark:|32|[Webブラウザで表示してみよう](32_Webブラウザで表示してみよう.md)||
-|:white_check_mark:|33|[タグと属性](33_タグと属性.md)||
-|:white_check_mark:|34|[HTMLの基本構造](34_HTMLの基本構造.md)||
-|:white_check_mark:|35|[＜head＞タグの中に記述する情報](35_＜head＞タグの中に記述する情報.md)||
-|:white_check_mark:|36|[＜body＞タグ内の構造と入れ子のルール](36_＜body＞タグ内の構造と入れ子のルール.md)||
-|:white_check_mark:|37|[ページの構造を示すタグ](37_ページの構造を示すタグ.md)||
-|:white_check_mark:|38|[見出しタグ＜h1＞〜＜h6＞と段落タグ＜p＞](38_見出しタグ＜h1＞〜＜h6＞と段落タグ＜p＞.md)||
-|:white_check_mark:|39|[強制改行タグ＜br＞と水平罫線タグ＜hr＞](39_強制改行タグ＜br＞と水平罫線タグ＜hr＞.md)||
-|:white_check_mark:|40|[リンクを示す＜a＞タグ](40_リンクを示す＜a＞タグ.md)||
-|:white_check_mark:|41|[画像を挿入する＜img＞タグ](41_画像を挿入する＜img＞タグ.md)||
-|:white_check_mark:|42|[箇条書きリストと番号つきリスト](42_箇条書きリストと番号つきリスト.md)||
-|:white_check_mark:|43|[テーブルを構成するタグ](43_テーブルを構成するタグ.md)||
-|:white_check_mark:|44|[3つのタグで作る説明リスト](44_3つのタグで作る説明リスト.md)||
-|:white_check_mark:|45|[文章の一部分を強調するタグ](45_文章の一部分を強調するタグ.md)||
-|:white_check_mark:|46|[連絡先や注釈を示すタグ](46_連絡先や注釈を示すタグ.md)||
-|:white_check_mark:|47|[フォームの仕組み](47_フォームの仕組み.md)||
-|:white_check_mark:|48|[フォームを構成する部品](48_フォームを構成する部品.md)||
-|:white_check_mark:|49|[情報を整理する＜div＞タグと＜span＞タグ](49_情報を整理する＜div＞タグと＜span＞タグ.md)||
-|:white_check_mark:|50|[そのほかのタグ](50_そのほかのタグ.md)||
-|:white_check_mark:|51|[チャレンジしてみよう！ 文章をマークアップしてみよう](51_チャレンジしてみよう！_文章をマークアップしてみよう.md)||
+|:white_large_square:|30|[HTMLについて知ろう](30_HTMLについて知ろう.md)||
+|:white_large_square:|31|[テキスト情報に意味を与えるマークアップ](31_テキスト情報に意味を与えるマークアップ.md)||
+|:white_large_square:|32|[Webブラウザで表示してみよう](32_Webブラウザで表示してみよう.md)||
+|:white_large_square:|33|[タグと属性](33_タグと属性.md)||
+|:white_large_square:|34|[HTMLの基本構造](34_HTMLの基本構造.md)||
+|:white_large_square:|35|[＜head＞タグの中に記述する情報](35_＜head＞タグの中に記述する情報.md)||
+|:white_large_square:|36|[＜body＞タグ内の構造と入れ子のルール](36_＜body＞タグ内の構造と入れ子のルール.md)||
+|:white_large_square:|37|[ページの構造を示すタグ](37_ページの構造を示すタグ.md)||
+|:white_large_square:|38|[見出しタグ＜h1＞〜＜h6＞と段落タグ＜p＞](38_見出しタグ＜h1＞〜＜h6＞と段落タグ＜p＞.md)||
+|:white_large_square:|39|[強制改行タグ＜br＞と水平罫線タグ＜hr＞](39_強制改行タグ＜br＞と水平罫線タグ＜hr＞.md)||
+|:white_large_square:|40|[リンクを示す＜a＞タグ](40_リンクを示す＜a＞タグ.md)||
+|:white_large_square:|41|[画像を挿入する＜img＞タグ](41_画像を挿入する＜img＞タグ.md)||
+|:white_large_square:|42|[箇条書きリストと番号つきリスト](42_箇条書きリストと番号つきリスト.md)||
+|:white_large_square:|43|[テーブルを構成するタグ](43_テーブルを構成するタグ.md)||
+|:white_large_square:|44|[3つのタグで作る説明リスト](44_3つのタグで作る説明リスト.md)||
+|:white_large_square:|45|[文章の一部分を強調するタグ](45_文章の一部分を強調するタグ.md)||
+|:white_large_square:|46|[連絡先や注釈を示すタグ](46_連絡先や注釈を示すタグ.md)||
+|:white_large_square:|47|[フォームの仕組み](47_フォームの仕組み.md)||
+|:white_large_square:|48|[フォームを構成する部品](48_フォームを構成する部品.md)||
+|:white_large_square:|49|[情報を整理する＜div＞タグと＜span＞タグ](49_情報を整理する＜div＞タグと＜span＞タグ.md)||
+|:white_large_square:|50|[そのほかのタグ](50_そのほかのタグ.md)||
+|:white_large_square:|51|[チャレンジしてみよう！ 文章をマークアップしてみよう](51_チャレンジしてみよう！_文章をマークアップしてみよう.md)||
 |||Lesson5　CSSをマスターする||
-|:white_check_mark:|52|[CSSについて知ろう](52_CSSについて知ろう.md)||
-|:white_check_mark:|53|[CSSの役割](53_CSSの役割.md)||
-|:white_check_mark:|54|[CSSの基本形](54_CSSの基本形.md)||
-|:white_check_mark:|55|[よく使われるセレクタ](55_よく使われるセレクタ.md)||
-|:white_check_mark:|56|[CSSの適用方法](56_CSSの適用方法.md)||
-|:white_check_mark:|57|[CSSのルール](57_CSSのルール.md)||
-|:white_check_mark:|58|[Webブラウザとベンダープレフィックス](58_Webブラウザとベンダープレフィックス.md)||
-|:white_check_mark:|59|[チャレンジしてみよう！ 簡単なCSSを書いてみよう](59_チャレンジしてみよう！_簡単なCSSを書いてみよう.md)||
-|:white_check_mark:|60|[プロパティを大きく2つに分ける](60_プロパティを大きく2つに分ける.md)||
-|:white_check_mark:|61|[文字や背景に色をつける](61_文字や背景に色をつける.md)||
-|:white_check_mark:|62|[フォントの指定](62_フォントの指定.md)||
-|:white_check_mark:|63|[フォントサイズと太さを指定する](63_フォントサイズと太さを指定する.md)||
-|:white_check_mark:|64|[行間（行高）や文字揃えの指定](64_行間（行高）や文字揃えの指定.md)||
-|:white_check_mark:|65|[テキストリンクの装飾](65_テキストリンクの装飾.md)||
-|:white_check_mark:|66|[マウスオンでスタイルを変える](66_マウスオンでスタイルを変える.md)||
-|:white_check_mark:|67|[疑似要素](67_疑似要素.md)||
-|:white_check_mark:|68|[レイアウトの基本「ボックスモデル」](68_レイアウトの基本「ボックスモデル」.md)||
-|:white_check_mark:|69|[幅と高さの指定](69_幅と高さの指定.md)||
-|:white_check_mark:|70|[内余白（パディング）の指定](70_内余白（パディング）の指定.md)||
-|:white_check_mark:|71|[ボーダーの指定](71_ボーダーの指定.md)||
-|:white_check_mark:|72|[ボックス同士の間隔を指定する](72_ボックス同士の間隔を指定する.md)||
-|:white_check_mark:|73|[背景に画像を指定する](73_背景に画像を指定する.md)||
-|:white_check_mark:|74|[要素の性質を切り替えるdisplayプロパティ](74_要素の性質を切り替えるdisplayプロパティ.md)||
-|:white_check_mark:|75|[ブロックをレイアウトするさまざまな方法](75_ブロックをレイアウトするさまざまな方法.md)||
-|:white_check_mark:|76|[floatを使った回り込みのレイアウト](76_floatを使った回り込みのレイアウト.md)||
-|:white_check_mark:|77|[flexboxを使ったレイアウト](77_flexboxを使ったレイアウト.md)||
-|:white_check_mark:|78|[CSS Gridで二次元的レイアウト](78_CSS_Gridで二次元的レイアウト.md)||
-|:white_check_mark:|79|[positionを使った要素の自由配置](79_positionを使った要素の自由配置.md)||
-|:white_check_mark:|80|[チャレンジしてみよう！ 要素を動かすCSSを使ってみよう](80_チャレンジしてみよう！_要素を動かすCSSを使ってみよう.md)||
-|:white_check_mark:|81|[リストタグでナビゲーションを作る](81_リストタグでナビゲーションを作る.md)||
-|:white_check_mark:|82|[テーブルをデザインする](82_テーブルをデザインする.md)||
-|:white_check_mark:|83|[フォームをデザインする](83_フォームをデザインする.md)||
-|:white_check_mark:|84|[チャレンジしてみよう！ 背景画像やグローバルナビゲーションを表現しよう](84_チャレンジしてみよう！_背景画像やグローバルナビゲーションを表現しよう.md)||
+|:white_large_square:|52|[CSSについて知ろう](52_CSSについて知ろう.md)||
+|:white_large_square:|53|[CSSの役割](53_CSSの役割.md)||
+|:white_large_square:|54|[CSSの基本形](54_CSSの基本形.md)||
+|:white_large_square:|55|[よく使われるセレクタ](55_よく使われるセレクタ.md)||
+|:white_large_square:|56|[CSSの適用方法](56_CSSの適用方法.md)||
+|:white_large_square:|57|[CSSのルール](57_CSSのルール.md)||
+|:white_large_square:|58|[Webブラウザとベンダープレフィックス](58_Webブラウザとベンダープレフィックス.md)||
+|:white_large_square:|59|[チャレンジしてみよう！ 簡単なCSSを書いてみよう](59_チャレンジしてみよう！_簡単なCSSを書いてみよう.md)||
+|:white_large_square:|60|[プロパティを大きく2つに分ける](60_プロパティを大きく2つに分ける.md)||
+|:white_large_square:|61|[文字や背景に色をつける](61_文字や背景に色をつける.md)||
+|:white_large_square:|62|[フォントの指定](62_フォントの指定.md)||
+|:white_large_square:|63|[フォントサイズと太さを指定する](63_フォントサイズと太さを指定する.md)||
+|:white_large_square:|64|[行間（行高）や文字揃えの指定](64_行間（行高）や文字揃えの指定.md)||
+|:white_large_square:|65|[テキストリンクの装飾](65_テキストリンクの装飾.md)||
+|:white_large_square:|66|[マウスオンでスタイルを変える](66_マウスオンでスタイルを変える.md)||
+|:white_large_square:|67|[疑似要素](67_疑似要素.md)||
+|:white_large_square:|68|[レイアウトの基本「ボックスモデル」](68_レイアウトの基本「ボックスモデル」.md)||
+|:white_large_square:|69|[幅と高さの指定](69_幅と高さの指定.md)||
+|:white_large_square:|70|[内余白（パディング）の指定](70_内余白（パディング）の指定.md)||
+|:white_large_square:|71|[ボーダーの指定](71_ボーダーの指定.md)||
+|:white_large_square:|72|[ボックス同士の間隔を指定する](72_ボックス同士の間隔を指定する.md)||
+|:white_large_square:|73|[背景に画像を指定する](73_背景に画像を指定する.md)||
+|:white_large_square:|74|[要素の性質を切り替えるdisplayプロパティ](74_要素の性質を切り替えるdisplayプロパティ.md)||
+|:white_large_square:|75|[ブロックをレイアウトするさまざまな方法](75_ブロックをレイアウトするさまざまな方法.md)||
+|:white_large_square:|76|[floatを使った回り込みのレイアウト](76_floatを使った回り込みのレイアウト.md)||
+|:white_large_square:|77|[flexboxを使ったレイアウト](77_flexboxを使ったレイアウト.md)||
+|:white_large_square:|78|[CSS Gridで二次元的レイアウト](78_CSS_Gridで二次元的レイアウト.md)||
+|:white_large_square:|79|[positionを使った要素の自由配置](79_positionを使った要素の自由配置.md)||
+|:white_large_square:|80|[チャレンジしてみよう！ 要素を動かすCSSを使ってみよう](80_チャレンジしてみよう！_要素を動かすCSSを使ってみよう.md)||
+|:white_large_square:|81|[リストタグでナビゲーションを作る](81_リストタグでナビゲーションを作る.md)||
+|:white_large_square:|82|[テーブルをデザインする](82_テーブルをデザインする.md)||
+|:white_large_square:|83|[フォームをデザインする](83_フォームをデザインする.md)||
+|:white_large_square:|84|[チャレンジしてみよう！ 背景画像やグローバルナビゲーションを表現しよう](84_チャレンジしてみよう！_背景画像やグローバルナビゲーションを表現しよう.md)||
 |||Lesson6　シングルページのサイトを作る||
-|:white_check_mark:|85|[制作現場での進め方を見てみよう](85_制作現場での進め方を見てみよう.md)||
-|:white_check_mark:|86|[完成イメージと全体構造の確認](86_完成イメージと全体構造の確認.md)||
-|:white_check_mark:|87|[HTMLのマークアップ① 下準備とページの大枠](87_HTMLのマークアップ①_下準備とページの大枠.md)||
-|:white_check_mark:|88|[HTMLのマークアップ② 各セクションを作り込む](88_HTMLのマークアップ②_各セクションを作り込む.md)||
-|:white_check_mark:|89|[CSSのコーディング① ページ全体のスタイル指定](89_CSSのコーディング①_ページ全体のスタイル指定.md)||
-|:white_check_mark:|90|[CSSのコーディング② 細かなスタイルの指定](90_CSSのコーディング②_細かなスタイルの指定.md)||
+|:white_large_square:|85|[制作現場での進め方を見てみよう](85_制作現場での進め方を見てみよう.md)||
+|:white_large_square:|86|[完成イメージと全体構造の確認](86_完成イメージと全体構造の確認.md)||
+|:white_large_square:|87|[HTMLのマークアップ① 下準備とページの大枠](87_HTMLのマークアップ①_下準備とページの大枠.md)||
+|:white_large_square:|88|[HTMLのマークアップ② 各セクションを作り込む](88_HTMLのマークアップ②_各セクションを作り込む.md)||
+|:white_large_square:|89|[CSSのコーディング① ページ全体のスタイル指定](89_CSSのコーディング①_ページ全体のスタイル指定.md)||
+|:white_large_square:|90|[CSSのコーディング② 細かなスタイルの指定](90_CSSのコーディング②_細かなスタイルの指定.md)||
 |||Lesson7　レスポンシブ対応サイトを作る||
-|:white_check_mark:|91|[レスポンシブWebデザインでサンプルサイトを作る準備](91_レスポンシブWebデザインでサンプルサイトを作る準備.md)||
-|:white_check_mark:|92|[水族館のサイトを作る① 共通部分のHTMLとCSS](92_水族館のサイトを作る①_共通部分のHTMLとCSS.md)||
-|:white_check_mark:|93|[水族館のサイトを作る② トップページ](93_水族館のサイトを作る②_トップページ.md)||
-|:white_check_mark:|94|[水族館のサイトを作る③ 「営業案内」ページ](94_水族館のサイトを作る③_「営業案内」ページ.md)||
-|:white_check_mark:|95|[水族館のサイトを作る④ 「お問い合わせ」ページ](95_水族館のサイトを作る④_「お問い合わせ」ページ.md)||
-|:white_check_mark:|96|[水族館のサイトを作る⑤ 幅768px以上のスタイル指定](96_水族館のサイトを作る⑤_幅768px以上のスタイル指定.md)||
+|:white_large_square:|91|[レスポンシブWebデザインでサンプルサイトを作る準備](91_レスポンシブWebデザインでサンプルサイトを作る準備.md)||
+|:white_large_square:|92|[水族館のサイトを作る① 共通部分のHTMLとCSS](92_水族館のサイトを作る①_共通部分のHTMLとCSS.md)||
+|:white_large_square:|93|[水族館のサイトを作る② トップページ](93_水族館のサイトを作る②_トップページ.md)||
+|:white_large_square:|94|[水族館のサイトを作る③ 「営業案内」ページ](94_水族館のサイトを作る③_「営業案内」ページ.md)||
+|:white_large_square:|95|[水族館のサイトを作る④ 「お問い合わせ」ページ](95_水族館のサイトを作る④_「お問い合わせ」ページ.md)||
+|:white_large_square:|96|[水族館のサイトを作る⑤ 幅768px以上のスタイル指定](96_水族館のサイトを作る⑤_幅768px以上のスタイル指定.md)||
 |||Lesson8　Webサイトを公開してみよう||
-|:white_check_mark:|97|[Webサーバーとドメイン](97_Webサーバーとドメイン.md)||
-|:white_check_mark:|98|[公開前にテスト環境で確認する](98_公開前にテスト環境で確認する.md)||
-|:white_check_mark:|99|[Webサイトの品質とバリデーション](99_Webサイトの品質とバリデーション.md)||
-|:white_check_mark:|100|[Webサーバーにデータを転送する仕組み](100_Webサーバーにデータを転送する仕組み.md)||
-|:white_check_mark:|101|[チャレンジしてみよう！ FTPでデータをアップロードしてみよう](101_チャレンジしてみよう！_FTPでデータをアップロードしてみよう.md)||
-|:white_check_mark:|102|[Webブラウザで表示を確認しよう](102_Webブラウザで表示を確認しよう.md)||
-|:white_check_mark:|103|[Webサイトデータのバージョンを管理する](103_Webサイトデータのバージョンを管理する.md)||
+|:white_large_square:|97|[Webサーバーとドメイン](97_Webサーバーとドメイン.md)||
+|:white_large_square:|98|[公開前にテスト環境で確認する](98_公開前にテスト環境で確認する.md)||
+|:white_large_square:|99|[Webサイトの品質とバリデーション](99_Webサイトの品質とバリデーション.md)||
+|:white_large_square:|100|[Webサーバーにデータを転送する仕組み](100_Webサーバーにデータを転送する仕組み.md)||
+|:white_large_square:|101|[チャレンジしてみよう！ FTPでデータをアップロードしてみよう](101_チャレンジしてみよう！_FTPでデータをアップロードしてみよう.md)||
+|:white_large_square:|102|[Webブラウザで表示を確認しよう](102_Webブラウザで表示を確認しよう.md)||
+|:white_large_square:|103|[Webサイトデータのバージョンを管理する](103_Webサイトデータのバージョンを管理する.md)||
 |||Lesson9　SNS連携とWebサイトの運用||
-|:white_check_mark:|104|[Google Search ConsoleにWebサイトを登録する](104_Google_Search_ConsoleにWebサイトを登録する.md)||
-|:white_check_mark:|105|[Webサイトの効果を測定するアクセス解析](105_Webサイトの効果を測定するアクセス解析.md)||
-|:white_check_mark:|106|[ユーザビリティやアクセシビリティの改善](106_ユーザビリティやアクセシビリティの改善.md)||
-|:white_check_mark:|107|[セキュリティ対策の基本はアップデートと情報収集](107_セキュリティ対策の基本はアップデートと情報収集.md)||
-|:white_check_mark:|108|[ソーシャルメディアとの連携について](108_ソーシャルメディアとの連携について.md)||
+|:white_large_square:|104|[Google Search ConsoleにWebサイトを登録する](104_Google_Search_ConsoleにWebサイトを登録する.md)||
+|:white_large_square:|105|[Webサイトの効果を測定するアクセス解析](105_Webサイトの効果を測定するアクセス解析.md)||
+|:white_large_square:|106|[ユーザビリティやアクセシビリティの改善](106_ユーザビリティやアクセシビリティの改善.md)||
+|:white_large_square:|107|[セキュリティ対策の基本はアップデートと情報収集](107_セキュリティ対策の基本はアップデートと情報収集.md)||
+|:white_large_square:|108|[ソーシャルメディアとの連携について](108_ソーシャルメディアとの連携について.md)||
