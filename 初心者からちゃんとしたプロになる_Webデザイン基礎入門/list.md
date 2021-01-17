@@ -66,6 +66,7 @@
 |:white_check_mark:|56|[CSSの適用方法](56_CSSの適用方法.md)||
 |:white_check_mark:|57|[CSSのルール](57_CSSのルール.md)||
 |:white_large_square:|58|[Webブラウザとベンダープレフィックス](58_Webブラウザとベンダープレフィックス.md)||
+|:white_large_square:||[リセットCSS](リセットCSS.md)||
 |:white_large_square:|59|[チャレンジしてみよう！ 簡単なCSSを書いてみよう](59_チャレンジしてみよう！_簡単なCSSを書いてみよう.md)||
 |:white_large_square:|60|[プロパティを大きく2つに分ける](60_プロパティを大きく2つに分ける.md)||
 |:white_large_square:|61|[文字や背景に色をつける](61_文字や背景に色をつける.md)||
