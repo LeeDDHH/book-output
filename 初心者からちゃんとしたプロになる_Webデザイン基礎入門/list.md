@@ -41,13 +41,13 @@
 |:white_check_mark:|32|[Webブラウザで表示してみよう](32_Webブラウザで表示してみよう.md)||
 |:white_check_mark:|33|[タグと属性](33_タグと属性.md)||
 |:white_check_mark:|34|[HTMLの基本構造](34_HTMLの基本構造.md)||
-|:white_check_mark:|35|[<head>タグの中に記述する情報](35_<head>タグの中に記述する情報.md)||
-|:white_check_mark:|36|[<body>タグ内の構造と入れ子のルール](36_<body>タグ内の構造と入れ子のルール.md)||
+|:white_check_mark:|35|[`<head>`タグの中に記述する情報](35_<head>タグの中に記述する情報.md)||
+|:white_check_mark:|36|[`<body>`タグ内の構造と入れ子のルール](36_<body>タグ内の構造と入れ子のルール.md)||
 |:white_check_mark:|37|[ページの構造を示すタグ](37_ページの構造を示すタグ.md)||
-|:white_check_mark:|38|[見出しタグ<h1>〜<h6>と段落タグ<p>](38_見出しタグ<h1>〜<h6>と段落タグ<p>.md)||
-|:white_check_mark:|39|[強制改行タグ<br>と水平罫線タグ<hr>](39_強制改行タグ<br>と水平罫線タグ<hr>.md)||
-|:white_check_mark:|40|[リンクを示す<a>タグ](40_リンクを示す<a>タグ.md)||
-|:white_check_mark:|41|[画像を挿入する<img>タグ](41_画像を挿入する<img>タグ.md)||
+|:white_check_mark:|38|[見出しタグ`<h1>`〜`<h6>`と段落タグ`<p>`](38_見出しタグ<h1>〜<h6>と段落タグ<p>.md)||
+|:white_check_mark:|39|[強制改行タグ`<br>`と水平罫線タグ`<hr>`](39_強制改行タグ<br>と水平罫線タグ<hr>.md)||
+|:white_check_mark:|40|[リンクを示す`<a>`タグ](40_リンクを示す<a>タグ.md)||
+|:white_check_mark:|41|[画像を挿入する`<img>`タグ](41_画像を挿入する<img>タグ.md)||
 |:white_check_mark:|42|[箇条書きリストと番号つきリスト](42_箇条書きリストと番号つきリスト.md)||
 |:white_check_mark:|43|[テーブルを構成するタグ](43_テーブルを構成するタグ.md)||
 |:white_check_mark:|44|[3つのタグで作る説明リスト](44_3つのタグで作る説明リスト.md)||
@@ -55,7 +55,7 @@
 |:white_check_mark:|46|[連絡先や注釈を示すタグ](46_連絡先や注釈を示すタグ.md)||
 |:white_check_mark:|47|[フォームの仕組み](47_フォームの仕組み.md)||
 |:white_check_mark:|48|[フォームを構成する部品](48_フォームを構成する部品.md)||
-|:white_check_mark:|49|[情報を整理する<div>タグと<span>タグ](49_情報を整理する<div>タグと<span>タグ.md)||
+|:white_check_mark:|49|[情報を整理する`<div>`タグと`<span>`タグ](49_情報を整理する<div>タグと<span>タグ.md)||
 |:white_check_mark:|50|[そのほかのタグ](50_そのほかのタグ.md)||
 |:white_check_mark:|51|[チャレンジしてみよう！ 文章をマークアップしてみよう](51_チャレンジしてみよう！_文章をマークアップしてみよう.md)||
 |||Lesson5　CSSをマスターする||
