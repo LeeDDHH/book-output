@@ -36,35 +36,35 @@
 |:white_check_mark:|28|[Webサイトの素材と著作権](28_Webサイトの素材と著作権.md)|210113読了（80~81）|
 |:white_large_square:|29|[チャレンジしてみよう！ Web用の画像を書き出してみよう](29_チャレンジしてみよう！_Web用の画像を書き出してみよう.md)||
 |||Lesson4　HTMLをマスターする||
-|:white_large_square:|30|[HTMLについて知ろう](30_HTMLについて知ろう.md)||
-|:white_large_square:|31|[テキスト情報に意味を与えるマークアップ](31_テキスト情報に意味を与えるマークアップ.md)||
-|:white_large_square:|32|[Webブラウザで表示してみよう](32_Webブラウザで表示してみよう.md)||
-|:white_large_square:|33|[タグと属性](33_タグと属性.md)||
-|:white_large_square:|34|[HTMLの基本構造](34_HTMLの基本構造.md)||
-|:white_large_square:|35|[＜head＞タグの中に記述する情報](35_＜head＞タグの中に記述する情報.md)||
-|:white_large_square:|36|[＜body＞タグ内の構造と入れ子のルール](36_＜body＞タグ内の構造と入れ子のルール.md)||
-|:white_large_square:|37|[ページの構造を示すタグ](37_ページの構造を示すタグ.md)||
-|:white_large_square:|38|[見出しタグ＜h1＞〜＜h6＞と段落タグ＜p＞](38_見出しタグ＜h1＞〜＜h6＞と段落タグ＜p＞.md)||
-|:white_large_square:|39|[強制改行タグ＜br＞と水平罫線タグ＜hr＞](39_強制改行タグ＜br＞と水平罫線タグ＜hr＞.md)||
-|:white_large_square:|40|[リンクを示す＜a＞タグ](40_リンクを示す＜a＞タグ.md)||
-|:white_large_square:|41|[画像を挿入する＜img＞タグ](41_画像を挿入する＜img＞タグ.md)||
-|:white_large_square:|42|[箇条書きリストと番号つきリスト](42_箇条書きリストと番号つきリスト.md)||
-|:white_large_square:|43|[テーブルを構成するタグ](43_テーブルを構成するタグ.md)||
-|:white_large_square:|44|[3つのタグで作る説明リスト](44_3つのタグで作る説明リスト.md)||
-|:white_large_square:|45|[文章の一部分を強調するタグ](45_文章の一部分を強調するタグ.md)||
-|:white_large_square:|46|[連絡先や注釈を示すタグ](46_連絡先や注釈を示すタグ.md)||
-|:white_large_square:|47|[フォームの仕組み](47_フォームの仕組み.md)||
-|:white_large_square:|48|[フォームを構成する部品](48_フォームを構成する部品.md)||
-|:white_large_square:|49|[情報を整理する＜div＞タグと＜span＞タグ](49_情報を整理する＜div＞タグと＜span＞タグ.md)||
-|:white_large_square:|50|[そのほかのタグ](50_そのほかのタグ.md)||
-|:white_large_square:|51|[チャレンジしてみよう！ 文章をマークアップしてみよう](51_チャレンジしてみよう！_文章をマークアップしてみよう.md)||
+|:white_check_mark:|30|[HTMLについて知ろう](30_HTMLについて知ろう.md)||
+|:white_check_mark:|31|[テキスト情報に意味を与えるマークアップ](31_テキスト情報に意味を与えるマークアップ.md)||
+|:white_check_mark:|32|[Webブラウザで表示してみよう](32_Webブラウザで表示してみよう.md)||
+|:white_check_mark:|33|[タグと属性](33_タグと属性.md)||
+|:white_check_mark:|34|[HTMLの基本構造](34_HTMLの基本構造.md)||
+|:white_check_mark:|35|[<head>タグの中に記述する情報](35_<head>タグの中に記述する情報.md)||
+|:white_check_mark:|36|[<body>タグ内の構造と入れ子のルール](36_<body>タグ内の構造と入れ子のルール.md)||
+|:white_check_mark:|37|[ページの構造を示すタグ](37_ページの構造を示すタグ.md)||
+|:white_check_mark:|38|[見出しタグ<h1>〜<h6>と段落タグ<p>](38_見出しタグ<h1>〜<h6>と段落タグ<p>.md)||
+|:white_check_mark:|39|[強制改行タグ<br>と水平罫線タグ<hr>](39_強制改行タグ<br>と水平罫線タグ<hr>.md)||
+|:white_check_mark:|40|[リンクを示す<a>タグ](40_リンクを示す<a>タグ.md)||
+|:white_check_mark:|41|[画像を挿入する<img>タグ](41_画像を挿入する<img>タグ.md)||
+|:white_check_mark:|42|[箇条書きリストと番号つきリスト](42_箇条書きリストと番号つきリスト.md)||
+|:white_check_mark:|43|[テーブルを構成するタグ](43_テーブルを構成するタグ.md)||
+|:white_check_mark:|44|[3つのタグで作る説明リスト](44_3つのタグで作る説明リスト.md)||
+|:white_check_mark:|45|[文章の一部分を強調するタグ](45_文章の一部分を強調するタグ.md)||
+|:white_check_mark:|46|[連絡先や注釈を示すタグ](46_連絡先や注釈を示すタグ.md)||
+|:white_check_mark:|47|[フォームの仕組み](47_フォームの仕組み.md)||
+|:white_check_mark:|48|[フォームを構成する部品](48_フォームを構成する部品.md)||
+|:white_check_mark:|49|[情報を整理する<div>タグと<span>タグ](49_情報を整理する<div>タグと<span>タグ.md)||
+|:white_check_mark:|50|[そのほかのタグ](50_そのほかのタグ.md)||
+|:white_check_mark:|51|[チャレンジしてみよう！ 文章をマークアップしてみよう](51_チャレンジしてみよう！_文章をマークアップしてみよう.md)||
 |||Lesson5　CSSをマスターする||
-|:white_large_square:|52|[CSSについて知ろう](52_CSSについて知ろう.md)||
-|:white_large_square:|53|[CSSの役割](53_CSSの役割.md)||
-|:white_large_square:|54|[CSSの基本形](54_CSSの基本形.md)||
-|:white_large_square:|55|[よく使われるセレクタ](55_よく使われるセレクタ.md)||
-|:white_large_square:|56|[CSSの適用方法](56_CSSの適用方法.md)||
-|:white_large_square:|57|[CSSのルール](57_CSSのルール.md)||
+|:white_check_mark:|52|[CSSについて知ろう](52_CSSについて知ろう.md)||
+|:white_check_mark:|53|[CSSの役割](53_CSSの役割.md)||
+|:white_check_mark:|54|[CSSの基本形](54_CSSの基本形.md)||
+|:white_check_mark:|55|[よく使われるセレクタ](55_よく使われるセレクタ.md)||
+|:white_check_mark:|56|[CSSの適用方法](56_CSSの適用方法.md)||
+|:white_check_mark:|57|[CSSのルール](57_CSSのルール.md)||
 |:white_large_square:|58|[Webブラウザとベンダープレフィックス](58_Webブラウザとベンダープレフィックス.md)||
 |:white_large_square:|59|[チャレンジしてみよう！ 簡単なCSSを書いてみよう](59_チャレンジしてみよう！_簡単なCSSを書いてみよう.md)||
 |:white_large_square:|60|[プロパティを大きく2つに分ける](60_プロパティを大きく2つに分ける.md)||
