@@ -83,9 +83,9 @@
 |:white_check_mark:|72|[ボックス同士の間隔を指定する](72_ボックス同士の間隔を指定する.md)|210117読了|
 |:white_check_mark:|73|[背景に画像を指定する](73_背景に画像を指定する.md)|210117読了|
 |:white_check_mark:|74|[要素の性質を切り替えるdisplayプロパティ](74_要素の性質を切り替えるdisplayプロパティ.md)|210117読了|
-|:white_check_mark:|75|[ブロックをレイアウトするさまざまな方法](75_ブロックをレイアウトするさまざまな方法.md)||
-|:white_large_square:|76|[floatを使った回り込みのレイアウト](76_floatを使った回り込みのレイアウト.md)||
-|:white_large_square:|77|[flexboxを使ったレイアウト](77_flexboxを使ったレイアウト.md)||
+|:white_check_mark:|75|[ブロックをレイアウトするさまざまな方法](75_ブロックをレイアウトするさまざまな方法.md)|210120読了|
+|:white_check_mark:|76|[floatを使った回り込みのレイアウト](76_floatを使った回り込みのレイアウト.md)|210120読了|
+|:white_check_mark:|77|[flexboxを使ったレイアウト](77_flexboxを使ったレイアウト.md)|210120読了|
 |:white_large_square:|78|[CSS Gridで二次元的レイアウト](78_CSS_Gridで二次元的レイアウト.md)||
 |:white_large_square:|79|[positionを使った要素の自由配置](79_positionを使った要素の自由配置.md)||
 |:white_large_square:|80|[チャレンジしてみよう！ 要素を動かすCSSを使ってみよう](80_チャレンジしてみよう！_要素を動かすCSSを使ってみよう.md)||
