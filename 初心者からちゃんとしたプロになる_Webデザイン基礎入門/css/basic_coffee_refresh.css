@@ -1,0 +1,99 @@
+@charset "UTF-8";
+
+/* 全体の初期設定 */
+
+* {
+  box-sizing: border-box;
+  font-family: YuMincho, "Hiragino Mincho ProN", HGS明朝E, serif;
+  margin: 0;
+}
+
+body {
+  background: url(../img/wood-texture.jpg) #8c5d4f repeat;
+  background-size: cover;
+  padding: 40px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+img {
+  display: block;
+  width: 10%;
+  height: auto;
+  margin: 0 auto;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+header {
+  color: #888;
+  padding: 10px;
+  margin-bottom: 40px;
+}
+
+ul {
+  background: #fff;
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+}
+
+li {
+  flex: 1 1 20%;
+}
+
+a {
+  display: block;
+  color: #196f6a;
+  text-decoration: none;
+  padding: 10px;
+}
+
+a:hover {
+  background: #e4e3d6;
+}
+
+p {
+  margin-bottom: 1em;
+}
+
+em {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #196f6a;
+}
+
+/* 成形済みスタイル */
+
+.wrapper {
+  background: ivory;
+  width: 75vw;
+  max-width: 90%;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+
+@media screen and (max-width: 768px) {
+  h2 {
+    font-size: 22px;
+  }
+
+  img {
+    width: 30%;
+  }
+
+  ul {
+    display: block;
+  }
+
+  main p {
+    font-size: 14px;
+  }
+}
