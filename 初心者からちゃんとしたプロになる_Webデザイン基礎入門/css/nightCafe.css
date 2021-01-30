@@ -1,0 +1,301 @@
+@charset "UTF-8";
+
+/* 初期スタイルの調整 */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', YuGothic, 'ヒラギノ角ゴ ProN W3', 'Hiragino Kaku Gothic ProN', Arial, 'メイリオ', Meiryo, sans-serif;
+  color: #806341;
+  background-color: sandybrown;
+}
+
+h1, h2 {
+  margin-top: 0;
+  margin-bottom: 30px;
+  line-height: 1.2;
+}
+
+h2 img {
+  min-width: 8vw;
+  max-width: 12vw;
+}
+
+a {
+  color: #806342;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+
+ul {
+  margin: 1em 0;
+  padding: 0;
+  list-style: none;
+}
+
+figure {
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+figure img {
+  width: 95vw;
+}
+
+li figure img {
+  width: 70vw;
+}
+
+address {
+  font-style: normal;
+}
+
+
+/* class設定 */
+/* ヘッダー */
+.header {
+  min-width: 8vw;
+  max-width: 18vw;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+/* ロゴ　*/
+.logo {
+  margin: 0;
+  text-align: center;
+}
+
+/* メイン */
+.main {
+  width: 95vw;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+/* トップ（メインイメージ） */
+.top {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* ナビ */
+.nav {
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.nav-list li {
+  display: inline-block;
+  margin: 0;
+  border-left: 1px solid #806342;
+}
+.nav-list li:first-child {
+  border-left: none;
+}
+.nav-list a {
+  display: inline-block;
+  padding: 0 15px;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+/* セクション */
+.section {
+  margin: 0 auto 80px;
+}
+
+/* 見出し */
+.heading {
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+/* about */
+.about {
+  text-align: center;
+}
+
+/* menu */
+.menu {
+  text-align: center;
+}
+.menu-list {
+  display: inline-block;
+  margin-left: 30px;
+  list-style: disc;
+  text-align: left;
+}
+.menu-list li {
+  margin-bottom: 10px;
+}
+
+/* photos */
+.photos {
+  width: 50vw;
+  max-width: 750px;
+}
+
+.photos-list li {
+  margin-bottom: 30px;
+}
+
+.photos figcaption {
+  font-size: 12px;
+  text-align: left;
+}
+
+/* access */
+.access {
+  min-width: 40vw;
+  max-width: 700px;
+}
+
+.access-row {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.access-address {
+  font-size: 14px;
+}
+
+.access-address strong {
+  display: block;
+  margin: 10px 0;
+  font-size: 22px;
+}
+
+.access-map {
+  overflow: hidden;
+  padding-bottom:20%;
+  position: relative;
+  height: 0;
+  /* height: 20%; */
+  width: 30%;
+}
+
+.access-map iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+/* footer */
+.footer {
+  min-width: 95vw;
+  margin: 0 auto;
+  padding: 20px 0;
+  background-color: #ca9253;
+}
+
+.footer-container {
+  display: flex;
+  min-width: 400px;
+  max-width: 800px;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.footer-logo {
+  flex-basis: auto;
+  flex-grow: 1;
+  min-width: 8vw;
+  max-width: 18vw;
+  margin: 0;
+}
+
+.footer-body {
+  flex: 0 1 auto;
+  padding-top: 110px;
+}
+
+.footer-nav {
+  margin-bottom: 20px;
+}
+
+.footer-nav-list li {
+  display: inline-block;
+  margin: 0;
+  border-left: 1px solid #fff;
+}
+
+.footer-nav-list li:first-child {
+  border-left: none;
+}
+
+.footer-nav-list a {
+  display: inline-block;
+  padding: 0 15px;
+  line-height: 1.2;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+/* copyright */
+.copyright {
+  margin: 0;
+  padding-left: 15px;
+  color: #fff;
+}
+
+.copyright small {
+  font-size: 11px;
+}
+
+.copyright a {
+  color: #fff;
+}
+
+/* 画面サイズが480pxまではここを読み込む */
+@media screen and (max-width:480px) {
+  h2 img {
+    max-width: 38vw;
+  }
+
+  ul {
+    margin: 0.5em 0;
+  }
+
+  .footer-body {
+    padding-top: 14px;
+  }
+
+  .footer-nav-list a {
+    padding: 0 3px;
+  }
+
+  .gmap_canvas {
+    width: 200px;
+    height: 200px;
+  }
+}
+
+/* 画面サイズが768pxから2014pxまではここを読み込む */
+@media screen and (min-width:768px) and (max-width:1024px) {
+
+}
+
+/* 画面サイズが1024pxからはここを読み込む */
+@media screen and (min-width:1024px) {
+
+}
